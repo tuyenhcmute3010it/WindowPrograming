@@ -1,0 +1,13 @@
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Hacker Rank\Window\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Hacker Rank\Window\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Hacker Rank\Window\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Hacker Rank\Window\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.dll
+D:\Hacker Rank\Window\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Hacker Rank\Window\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
